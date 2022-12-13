@@ -1,0 +1,33 @@
+/* GLOBAL */
+* {
+  color: #8792A4;
+  margin: 0;
+  padding: 0;
+}
+
+/* SIDE-BAR */
+.side-bar {
+  background-color: #354052;
+  width: 20%;
+  height: 100vh;
+}
+
+.profile {
+  width: 100%;
+}
+
+.main {
+  margin: 10px;
+}
+
+.home {
+  /* width: 10px; */
+}
+
+.admin {
+
+}
+
+.categories {
+
+}
